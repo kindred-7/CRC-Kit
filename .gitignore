@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+include/
+Lib/
+Scripts/
+.cache
+.python-version
+.idea/
